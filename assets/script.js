@@ -38,15 +38,6 @@ gsap.fromTo('.layer-4', {
     delay: 1.3
 });
 
-gsap.to(".layer-5", {
-    x: 100000
-});
-gsap.to(".layer-6", {
-    x: 100000
-});
-gsap.to(".layer-7", {
-    x: 100000
-});
 
 
 const bgLime = 'linear-gradient(254.85deg, #627431 -10.53%, #E1F3AF 130.97%)';

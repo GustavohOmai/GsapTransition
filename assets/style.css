@@ -6,7 +6,7 @@
 
 body{
     font-size: 62.5%;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .main{
@@ -110,10 +110,13 @@ button{
 
 .layer-5{
     position: absolute;
+    display: none;
 }
 .layer-6{
     position: absolute;
+    display: none;
 }
 .layer-7{
     position: absolute;
+    display: none;
 }
